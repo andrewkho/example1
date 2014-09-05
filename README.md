@@ -17,9 +17,9 @@ This program does something extremely simple: it displays two strings on the scr
 The use of `//` indicates that the text that follows on that line is a comment. (Why do we use comments?)
 
 The tools that you will immediately need to install on your computer are:
-1. The Java Development Kit 7 (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html);
-2. The Java Runtime Environment 7 (http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html);
-3. The Eclipse IDE for Java development (http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr2).
+* The Java Development Kit 7 (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html);
+* The Java Runtime Environment 7 (http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html);
+* The Eclipse IDE for Java development (http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr2).
 
 To run `example1` on your own computer (assuming that you have the Eclipse IDE and Java 7 installed), perform these steps:
 
