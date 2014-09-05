@@ -37,4 +37,4 @@ To run `example1` on your own computer (assuming that you have the Eclipse IDE a
 * Double-click on the source file to open it in Eclipse. Eclipse should, by default, build (or compile) your project when you open it.
 * From Eclipse's `Run` menu select `Run` and you should see the program output in the bottom of the Eclipse window in the Console pane.
 
-(This video illustrates the steps above: http://vimeo.com/gsathish/eece210-example1. Better quality video:  http://vimeo.com/gsathish/eece210-example1-hd.)
+(This video illustrates the steps above: http://vimeo.com/gsathish/eece210-example1/. Better quality video:  http://vimeo.com/gsathish/eece210-example1-hd/.)
