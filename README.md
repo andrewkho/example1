@@ -16,18 +16,23 @@ This program does something extremely simple: it displays two strings on the scr
 
 The use of `//` indicates that the text that follows on that line is a comment. (Why do we use comments?)
 
-To run this program on your own computer (assuming that you have the Eclipse IDE and Java 7 installed), perform these steps:
+The tools that you will immediately need to install on your computer are:
+1. The Java Development Kit 7 (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html);
+2. The Java Runtime Environment 7 (http://www.oracle.com/technetwork/java/javase/downloads/java-se-jre-7-download-432155.html);
+3. The Eclipse IDE for Java development (http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/junosr2).
 
-1. Start `Eclipse`.
+To run `example1` on your own computer (assuming that you have the Eclipse IDE and Java 7 installed), perform these steps:
 
-2. Use the `File > Import` menu item.
-
-3. Select the `Git` option, which will have drop-down item `Projects from Git`; select this option.
-
-4. Double-click on the `Clone URI` option.
-
-5. In the URI entry, provide the URL of this GitHub repository. (It is `https://github.com/EECE-210/example1`.) Then select `Finish`.
-
-6. You will be asked to select a wizard. Pick `Java Project` under the drop-down list named `Java`. Then click on `Next`.
-
-7. You will be asked to enter a project name. You can enter any project name you choose. For example, you could enter `example1`. Then click on `Finish`.
+* Start `Eclipse`.
+* Use the `File > Import` menu item.
+* Select the `Git` option, which will have drop-down item `Projects from Git`; select this option.
+* Double-click on the `Clone URI` option.
+* In the URI entry, provide the URL of this GitHub repository. (It is `https://github.com/EECE-210/example1`.) Then select `Next`.
+* In the branch selection dialog window, ensure that `master` is selected and click `Next`.
+* In the local destination dialog window, you will see the default directory where the files from this repository will be stored on your machine. Make a note of this directory. Then click `Next`.
+* You will be asked to select a wizard. Pick `Use the New Project wizard` Then click on `Finish`.
+* You will now be asked to select a wizard to create a new Java project. Select `Java Project` under the `Java` dropdown list. Click on `Next`.
+* You will be taken to the `New Java Project` dialog window. Uncheck the `Use default location` option. Then enter the name of the project as `example1` and select the directory where the files were stored (from the earlier step) as the project location. Once this is done, click on `Finish`.
+* You should now be able to see the new project in the left pane of the Eclipse IDE. If you double-click on the project, you will be able to find the source file `FirstProgram.java`. 
+* Double-click on the source file to open it in Eclipse. Eclipse should, by default, build (or compile) your project when you open it.
+* From the Eclipse's `Run` select `Run` and you should see the program output in the bottom of the Eclipse window in the Console pane.
