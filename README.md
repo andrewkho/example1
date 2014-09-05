@@ -38,5 +38,5 @@ To run `example1` on your own computer (assuming that you have the Eclipse IDE a
 * From Eclipse's `Run` menu select `Run` and you should see the program output in the bottom of the Eclipse window in the Console pane.
 
 The following video illustrates the steps above.
-* Low quiality video: http://vimeo.com/gsathish/eece210-example1/
+* Low quality video: http://vimeo.com/gsathish/eece210-example1/
 * Better quality video:  http://vimeo.com/gsathish/eece210-example1-hd/
